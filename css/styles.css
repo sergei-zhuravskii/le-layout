@@ -134,14 +134,6 @@ h1 {
   color: var(--white);
 }
 
-/* .header__all-download-btn:hover {
-  background-color: var(--red);
-} */
-
-/* .header__all-download-btn:active {
-  background-color: var(--dark-red);
-} */
-
 .all-download-link__icon {
   margin-top: -5px;
   margin-left: 15px;
