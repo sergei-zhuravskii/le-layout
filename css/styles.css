@@ -333,11 +333,11 @@ h1 {
   /* notice *//* modal-window */
 
   .modal__btn:hover {
-    background-color: var(--dark-red);
+    background-color: var(--red);
   }
 
   .modal__btn:active {
-    background-color: var(--dark-grey);
+    background-color: var(--dark-red);
   }
 
 }
@@ -353,7 +353,7 @@ h1 {
   /* notice *//* modal-window */
 
   .modal__btn:active {
-    background-color: var(--dark-red);
+    background-color: var(--red);
   }
 
 }
