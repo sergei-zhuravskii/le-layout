@@ -188,6 +188,7 @@ h1 {
   padding: 50px;
   width: 100%;
 /*   height: fit-content; */
+  max-height: fit-content;
   background-color: var(--white);
   border-radius: 4px;
 }
